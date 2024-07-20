@@ -21,6 +21,42 @@
   </entry>
   <entry>
     <title>test文章</title>
+    <url>/2024/07/20/test%E6%96%87%E7%AB%A0%20-%20%E5%89%AF%E6%9C%AC%20(2)/</url>
+    <content><![CDATA[<p>这是测试文章，用于测试博客功能。</p>
+]]></content>
+      <categories>
+        <category>测试类别2</category>
+      </categories>
+      <tags>
+        <tag>测试标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test文章</title>
+    <url>/2024/07/20/test%E6%96%87%E7%AB%A0%20-%20%E5%89%AF%E6%9C%AC%20(4)/</url>
+    <content><![CDATA[<p>这是测试文章，用于测试博客功能。</p>
+]]></content>
+      <categories>
+        <category>测试类别3</category>
+      </categories>
+      <tags>
+        <tag>测试标签3</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test文章</title>
+    <url>/2024/07/20/test%E6%96%87%E7%AB%A0%20-%20%E5%89%AF%E6%9C%AC/</url>
+    <content><![CDATA[<p>这是测试文章，用于测试博客功能。</p>
+]]></content>
+      <categories>
+        <category>测试类别2</category>
+      </categories>
+      <tags>
+        <tag>测试标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test文章</title>
     <url>/2024/07/20/test%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>这是测试文章，用于测试博客功能。</p>
 ]]></content>
@@ -29,6 +65,18 @@
       </categories>
       <tags>
         <tag>测试标签</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test文章</title>
+    <url>/2024/07/20/test%E6%96%87%E7%AB%A0%20-%20%E5%89%AF%E6%9C%AC%20(3)/</url>
+    <content><![CDATA[<p>这是测试文章，用于测试博客功能。</p>
+]]></content>
+      <categories>
+        <category>测试类别2</category>
+      </categories>
+      <tags>
+        <tag>测试标签2</tag>
       </tags>
   </entry>
 </search>
